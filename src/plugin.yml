@@ -1,0 +1,18 @@
+main: hu.Pdani.FMCWarp.FMCWarpPlugin
+name: FMCWarp
+description: |
+  A warp plugin created for FNaFMC, supporting interactable blocks or NPCs (Requires Citizens plugin)
+version: '1.0.0'
+authors: [Pdani001]
+softdepend: [Citizens]
+permissions:
+  fmcwarp.admin:
+    default: op
+    description: Permission to set warps, and create interactable blocks or NPCs
+  fmcwarp.use:
+    default: true
+    description: Permission to use the interactable blocks/NPCs
+commands:
+  fmcwarp:
+    description: The admin command
+    usage: /<command>
