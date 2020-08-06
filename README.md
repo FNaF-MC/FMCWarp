@@ -3,6 +3,8 @@
 
 **_Created by Pdani001_**
 
+### This plugin will no longer receive updates! If you need it updated, feel free to create a fork, and/or a pull request.
+
 ### Commands:
 - /fmcwarp
   - For help, use "/fmcwarp help" in-game
